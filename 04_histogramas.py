@@ -1,5 +1,3 @@
-"""Puntos 16 a 20: histogramas de distribuciones normales."""
-
 import matplotlib.pyplot as plt
 import numpy as np
 

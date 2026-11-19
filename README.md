@@ -1,4 +1,4 @@
-ACTIVIDAD DE NUMPY Y MATPLOTLIB
+# Actividad 2.Análitica de Datos
 
 Los ejercicios estan separados por seccion:
 
@@ -7,14 +7,7 @@ Los ejercicios estan separados por seccion:
 03_graficos.py               - Puntos 11 a 16
 04_histogramas.py            - Puntos 16 a 20
 
-No es necesario activar ni utilizar .venv. Los scripts se ejecutan con la
-instalacion normal de Python y necesitan NumPy y Matplotlib.
-
-Desde PowerShell, en esta carpeta, instala las dependencias para tu usuario:
-
-    py -m pip install --user -r requirements.txt
-
-Ejecuta cada seccion con el lanzador de Python:
+   Ejecuta cada seccion con el lanzador de Python:
 
     py .\01_intro_calculos_arrays.py
     py .\02_broadcasting_indexado.py
@@ -23,3 +16,6 @@ Ejecuta cada seccion con el lanzador de Python:
 
 Los scripts de graficos muestran sus ventanas al finalizar; cierralas para
 terminar la ejecucion.
+
+
+

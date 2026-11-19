@@ -1,7 +1,4 @@
-"""Puntos 6 a 10: broadcasting e indexado de arrays."""
-
 import numpy as np
-
 
 def main() -> None:
     rng = np.random.default_rng(42)

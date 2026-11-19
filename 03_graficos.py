@@ -1,5 +1,3 @@
-"""Puntos 11 a 16: dispersión, densidad y gráficos de contorno."""
-
 import matplotlib.pyplot as plt
 import numpy as np
 

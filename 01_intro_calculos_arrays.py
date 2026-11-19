@@ -1,7 +1,4 @@
-"""Puntos 1 a 5: introducción y cálculos con arrays de NumPy."""
-
 import numpy as np
-
 
 def main() -> None:
     rng = np.random.default_rng(42)
